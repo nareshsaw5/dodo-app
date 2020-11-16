@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: product-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      component: product
+  template:
+    metadata:
+      labels:
+        component: product
+    spec:
+      containers:
+        - name: product
+          image:  nareshsaw5/product-service
+          ports:
+            - containerPort: 8080    
+
+

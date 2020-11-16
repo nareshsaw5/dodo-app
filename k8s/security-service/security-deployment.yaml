@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: security-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      component: security
+  template:
+    metadata:
+      labels:
+        component: security
+    spec:
+      containers:
+        - name: security
+          image: nareshsaw5/security-service
+          ports:
+            - containerPort: 8080        

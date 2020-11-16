@@ -1,0 +1,14 @@
+1
+T-Shirt 
+200
+2
+Shirt 
+400
+3
+Jeans 
+400
+4
+Pant
+500
+
+

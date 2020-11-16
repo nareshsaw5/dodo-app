@@ -1,0 +1,5 @@
+com/dodo/app/product/controller/ProductController.class
+com/dodo/app/product/convertor/WebConfig.class
+com/dodo/app/product/security/JWTAuthorizationFilter.class
+com/dodo/app/product/service/ProductService.class
+com/dodo/app/product/dto/Product.class

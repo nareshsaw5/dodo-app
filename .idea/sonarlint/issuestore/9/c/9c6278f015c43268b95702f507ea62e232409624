@@ -1,0 +1,10 @@
+
+2squid:S3626("Remove this redundant jump.(ûÁİ…
+Xsquid:S1126B"AReplace this if-then-else statement by a single return statement.(à˜»
+Fsquid:S1172@"*Remove this unused method parameter "res".(ô¹²«ıÿÿÿÿ
+=squid:S1170"!Make this final field static too.(Ú›¶ùÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ŸÜ›‡ûÿÿÿÿ
+=squid:S1170"!Make this final field static too.(¿ÛºÄıÿÿÿÿ
+nsquid:S00116"QRename this field "HEADER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú›¶ùÿÿÿÿ
+nsquid:S00116"QRename this field "PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÜ›‡ûÿÿÿÿ
+nsquid:S00116"QRename this field "SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÛºÄıÿÿÿÿ

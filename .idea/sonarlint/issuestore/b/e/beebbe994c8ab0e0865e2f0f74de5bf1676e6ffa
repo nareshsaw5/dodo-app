@@ -1,0 +1,11 @@
+
+Fsquid:S1172F"*Remove this unused method parameter "res".(ô¹²«ıÿÿÿÿ
+Msquid:S1905-"6Remove this unnecessary cast to "HttpServletResponse".(áºÂŒ
+nsquid:S00116"QRename this field "SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÛºÄıÿÿÿÿ
+nsquid:S00116"QRename this field "PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÜ›‡ûÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ŸÜ›‡ûÿÿÿÿ
+=squid:S1170"!Make this final field static too.(¿ÛºÄıÿÿÿÿ
+Xsquid:S1126H"AReplace this if-then-else statement by a single return statement.(à˜»
+=squid:S1170"!Make this final field static too.(Ú›¶ùÿÿÿÿ
+2squid:S3626."Remove this redundant jump.(ûÁİ…
+nsquid:S00116"QRename this field "HEADER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú›¶ùÿÿÿÿ
